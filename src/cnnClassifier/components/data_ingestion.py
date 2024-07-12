@@ -2,7 +2,7 @@ import os
 import zipfile
 import gdown
 from cnnClassifier import logger
-from cnnClassifier.entity import DataIngestionConfig
+from cnnClassifier.entity.config_entity import DataIngestionConfig
 from cnnClassifier.utils.common import get_size
 
 

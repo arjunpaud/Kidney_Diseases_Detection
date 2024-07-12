@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Kidney_Diseases_Detection/mlruns/0/4bbdb508f6074677aa23127fa5003447/artifacts
+end_time: 1720713941044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bbdb508f6074677aa23127fa5003447
+run_name: hilarious-lamb-820
+run_uuid: 4bbdb508f6074677aa23127fa5003447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720713933175
+status: 3
+tags: []
+user_id: hp
