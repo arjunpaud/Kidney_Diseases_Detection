@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Kidney_Diseases_Detection/mlruns/0/f48bc8f817cd4054a8a7494af4801a22/artifacts
+end_time: 1721459598594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f48bc8f817cd4054a8a7494af4801a22
+run_name: adaptable-flea-281
+run_uuid: f48bc8f817cd4054a8a7494af4801a22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721459590352
+status: 3
+tags: []
+user_id: hp

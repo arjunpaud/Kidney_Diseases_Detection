@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Kidney_Diseases_Detection/mlruns/0/14d7ad2bb0014ffa80304728776744fe/artifacts
+end_time: 1721457176002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14d7ad2bb0014ffa80304728776744fe
+run_name: rare-stork-26
+run_uuid: 14d7ad2bb0014ffa80304728776744fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721457165951
+status: 3
+tags: []
+user_id: hp

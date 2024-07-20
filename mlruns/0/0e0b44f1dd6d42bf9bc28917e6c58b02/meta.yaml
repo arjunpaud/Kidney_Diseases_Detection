@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Kidney_Diseases_Detection/mlruns/0/0e0b44f1dd6d42bf9bc28917e6c58b02/artifacts
+end_time: 1720844226687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e0b44f1dd6d42bf9bc28917e6c58b02
+run_name: salty-swan-31
+run_uuid: 0e0b44f1dd6d42bf9bc28917e6c58b02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720844205527
+status: 3
+tags: []
+user_id: hp
